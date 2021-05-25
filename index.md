@@ -8,7 +8,7 @@ University of Science and Technology of China
 #### Bsc in Geology, 2017
 Nanjing University
 
-## Research interests
+## [Research interests](https://shangqinhao.github.io/Research_Interests)
 - Upper mantle structure
 - Mantle discontinuities
 - Mineral physics
