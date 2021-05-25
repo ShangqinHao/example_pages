@@ -27,5 +27,6 @@ Nanjing University
 C, Python, Fortran, MATLAB, Quantum Espresso, VASP, Phonopy, GMT, Gnuplot, Origin, and Mathematica
 
 ## Contact
-Email: <s2hao@ucsd.edu>
+- Email: <s2hao@ucsd.edu>
+- Address: 
 
