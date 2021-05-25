@@ -1,5 +1,6 @@
 # Welcome to my website
-Ph.D. student majoring in seismology at UCSD
+Ph.D. student
+University of California, San Deigo
 
 ## Education
 #### Msc in Geophysics, 2020 
@@ -22,11 +23,9 @@ Nanjing University
 - Chinese National Committee for International Union of Geodesy and Geophysics Aug., 2018 
 - Annual Meeting of Chinese Geoscience Union 2016, 2017, 2018, 2019
 
-## Selected Scholarships & Awards 
-- National Scholarship (Top 2%) by University of Science and Technology of China 2019 
-- Outstanding Student (Top 5%) by Nanjing University 2015 
-- Cyrus Tang Scholarship (Top 15%) by Cyrus Tang Foundation 2014-2017 
-- National Scholarship for Encouragement (Top 15%) by Nanjing University 2014-2016 Skills  
-
 ## Programming & Instrumental Experience: 
 C, Python, Fortran, MATLAB, Quantum Espresso, VASP, Phonopy, GMT, Gnuplot, Origin, and Mathematica
+
+## Contact
+[s2hao@ucsd.edu](s2hao@ucsd.edu)
+
