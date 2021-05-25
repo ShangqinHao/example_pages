@@ -1,5 +1,5 @@
 # Welcome to my website
-Ph.D. student
+Ph.D. student \
 University of California, San Deigo
 
 ## Education
