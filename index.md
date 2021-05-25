@@ -1,5 +1,5 @@
 # Welcome to my website
-A Ph.D. student at UCSD
+Ph.D. student majoring in seismology at UCSD
 
 ## Education
 #### Msc in Geophysics, 2020 
