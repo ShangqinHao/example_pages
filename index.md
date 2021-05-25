@@ -1,5 +1,5 @@
 # Welcome to my website
-I am a Ph.D. student at UCSD.
+A Ph.D. student at UCSD
 
 ## Education
 #### Msc in Geophysics, 2020 
